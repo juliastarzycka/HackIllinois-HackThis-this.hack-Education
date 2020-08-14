@@ -2,6 +2,8 @@
 
 Data: https://www.kaggle.com/anlgrbz/student-demographics-online-education-dataoulad/data
 
+DevPost: https://devpost.com/software/visualizing-black-box-ml-models
+
 Because of the emergence of the COVID-19 pandemic, students were forced to adapt to virtual learning. Studying past data from a virtual learning environment can help teachers identify which students are more at risk of withdrawing or failing the course in this new learning environment. Then, teachers are able to give additional support to these students, who might fail or withdraw without support.
 
 With a goal of making virtual education more inclusive, we studied the demographics of students and the connections to engagement and final results (pass, fail, distinction, withdrawn). We studied the multifaceted aspects of student identity and background in order to understand how intersectionality (of gender, poverty level, and disability) may impact their ability to engage or succeed in online courses. By studying the Multiple Deprivation Index, we analyzed whether poverty level impact's student experience.
